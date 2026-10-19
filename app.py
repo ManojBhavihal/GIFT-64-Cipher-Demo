@@ -136,15 +136,16 @@ with st.sidebar:
     | Structure | SPN |
     """)
     st.markdown("---")
-    st.markdown("**Reference:**")
-    st.markdown('Banik et al., *"GIFT: A Small Present"*, CHES 2017')
-st.sidebar.markdown("### Project Team")
+    st.sidebar.markdown("### Project Team")
 st.sidebar.markdown("""
 - Ashwini
 - Bhagyashree
 - Manoj
 """)
 st.sidebar.markdown("---")
+    st.markdown("**Reference:**")
+    st.markdown('Banik et al., *"GIFT: A Small Present"*, CHES 2017')
+
 st.sidebar.caption("ACC Mini Project | MIT Manipal")
 
 
