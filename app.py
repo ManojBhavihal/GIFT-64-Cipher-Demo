@@ -138,8 +138,6 @@ with st.sidebar:
     st.markdown("---")
     st.markdown("**Reference:**")
     st.markdown('Banik et al., *"GIFT: A Small Present"*, CHES 2017')
-    st.markdown("---")
-    st.sidebar.markdown("---")
 st.sidebar.markdown("### Project Team")
 st.sidebar.markdown("""
 - Ashwini
