@@ -135,17 +135,20 @@ with st.sidebar:
     | S-box | 4-bit |
     | Structure | SPN |
     """)
-    st.markdown("---")
-    st.sidebar.markdown("### Project Team")
+    st.sidebar.markdown("---")
+
+st.sidebar.markdown("### Project Team")
 st.sidebar.markdown("""
 - Ashwini
 - Bhagyashree
 - Manoj
 """)
-st.sidebar.markdown("---")
-    st.markdown("**Reference:**")
-    st.markdown('Banik et al., *"GIFT: A Small Present"*, CHES 2017')
 
+st.sidebar.markdown("---")
+st.sidebar.markdown("**Reference:**")
+st.sidebar.markdown('Banik et al., *"GIFT: A Small Present"*, CHES 2017')
+
+st.sidebar.markdown("---")
 st.sidebar.caption("ACC Mini Project | MIT Manipal")
 
 
